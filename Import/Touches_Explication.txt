@@ -1,0 +1,14 @@
+ZQSD
+shift : sprint
+left ctrl : dash
+pavé numérique : 
+-gravité vers le bas : 2
+-gravité vers le haut : 8
+-gravité vers la gauche : 4
+-gravité vers la droite : 6
+-gravité vers devant : 9
+-gravité vers derrière : 3
+(besoin de recuperer l'anneau pour pouvoir changer la gravité)
+
+
+eviter les lasers, ça vous tue instant, et les fleche two-shot
